@@ -5,7 +5,7 @@ import 'package:payflow/modules/login/login_page.dart';
 import 'package:payflow/shared/themes/app_colors.dart';
 
 void main() {
-  runApp(const AppWidget());
+  runApp(AppWidget());
 }
 
 class AppFirebase extends StatefulWidget {
